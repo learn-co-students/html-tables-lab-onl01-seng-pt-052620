@@ -34,9 +34,7 @@ closing `<table>` tags.
 </table>
 ```
 
-This tells our browser to interpret anything inside as part of the table. What
-makes up a table, exactly? A table has rows and columns, which together
-create individual cells, as well as headers to label what each column is for.
+This tells our browser to interpret anything inside as part of the table. What makes up a table, exactly? A table has rows and columns, which together create individual cells, as well as headers to label what each column is for.
 
 In HTML, we define these table components using individual elements that we nest
 inside our `table` tags.
